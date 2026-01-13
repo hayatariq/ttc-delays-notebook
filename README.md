@@ -52,9 +52,9 @@ The raw data was cleaned and standardized to resolve inconsistent station names,
 
 ## How to Explore
 - **Read the full report:**  
-  `report/TTC_Subway_Delays_Report.pdf`
+  `report/TTC Subway Delays (2020-2024) Report.pdf`
 - **View the analysis code:**  
-  `notebook/TTC_Subway_Delays_Analysis.ipynb`
+  `notebook/Subway Delays Code.ipynb`
 
 ---
 
